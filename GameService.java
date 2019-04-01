@@ -1,11 +1,3 @@
-/*
-Program Name: GameService
-Author: Pedraum Safarzadeh
-Date: March 31 2015
-Course: CPSC 1181
-Compiler: JDK 1.7
-*/
-
 import java.io.*;
 import java.net.*;
 import java.awt.*;
